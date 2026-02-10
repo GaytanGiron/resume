@@ -1,12 +1,18 @@
 ## Lebron James
 
-I am the GOAT!!!
+4 time NBA champion, I am the GOAT!!!
 
 
 Los Angeles, California
 <img src="Lebron.jpg" width="300" align="left">
 
 
-[Lebron James](https://en.wikipedia.org/wiki/LeBron_James)
+[GOAT](https://en.wikipedia.org/wiki/LeBron_James)
 
+## Achievements
+
+1. [cite_start] 4 NBA Championships [cite: 1]
+2. [cite_start] 4 Finals MVPs [cite: 2]
+3. [cite_start] 4 Regular Season MVPs[cite: 3]
+4. [cite_start] 4 Holding the record as the league's all-time scorer. [cite: 4]
 
