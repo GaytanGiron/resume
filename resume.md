@@ -16,5 +16,5 @@ Los Angeles, California
 1. 4 NBA Championships
 2. 4 Finals MVPs
 3. 4 Regular Season MVPs
-4. 4 Holding the record as the league's all-time scorer.
+4. Holding the record as the league's all-time scorer.
 
