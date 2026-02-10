@@ -4,7 +4,7 @@ I am the GOAT!!!
 
 
 Los Angeles, California
-![Lebron](Lebron.jpg)
+<img src="Lebron.jg" width="300" align="left">
 [Lebron James](https://en.wikipedia.org/wiki/LeBron_James)
 
 
