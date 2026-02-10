@@ -9,9 +9,9 @@ Los Angeles, California
 
 [GOAT](https://en.wikipedia.org/wiki/LeBron_James)
 
-## Achievements
-
 <br clear="left">
+
+## Achievements
 
 1. 4 NBA Championships
 2. 4 Finals MVPs
